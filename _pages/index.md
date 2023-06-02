@@ -30,9 +30,13 @@ If you are an absolute beginner 👼 or just want to get a refresher start from 
 
 - <a class="internal-link" href="deep-learning-and-ai">Deep Learning and AI</a>
 
-Here's a list of all that the resources the website has to offer :
+Here's a list of all the resources that the website has to offer :
 
 - <a class="internal-link" href="/table-of-contents">Table Of Contents</a>
+
+If you are a visual learner, then navigate the entire website through the knowledge graph:
+
+- <a class="internal-link" href="/mind-map">Knowledge Graph</a>
 
 
 <strong>Recently updated notes</strong>
