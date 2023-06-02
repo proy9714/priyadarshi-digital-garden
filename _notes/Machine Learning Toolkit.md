@@ -5,7 +5,7 @@
 
 ### [[Matplotlib]]
 
-### [[NumPy]]
+### [[NumP]]
   
 ### [[Google Colab]]
 

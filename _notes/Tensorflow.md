@@ -7,3 +7,4 @@
 - 📚 [Keras Code Examples (Official)](https://keras.io/examples/)
 - 📚 [Difference Between a Batch and an Epoch in a Neural Network](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
 - 📺 [Saving and Loading models](https://www.youtube.com/watch?v=HxtBIwfy0kM)
+- 📺 [Deep Learning With Tensorflow 2.0, Keras and Python (Playlist)](https://www.youtube.com/playlist?-list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
