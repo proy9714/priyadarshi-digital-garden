@@ -1,5 +1,5 @@
 
-- 📺 [Linear Algebra - 3Blue1Brown Fantastic playlist!](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+- 📺[Linear Algebra - 3Blue1Brown Fantastic playlist!](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
 - 📺[Gradients and Partial Derivatives (Simplest explanation)](https://www.youtube.com/watch?v=GkB4vW16QHI)
 - 📺[Gradient Descent in 3 minutes (Simplest explanation)](https://www.youtube.com/watch?v=qg4PchTECck)
 - 📺[Gradients and multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
