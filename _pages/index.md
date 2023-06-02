@@ -38,9 +38,3 @@ Let's learn, laugh, and unleash the power of AI together 😀!
     </li>
   {% endfor %}
 </ul>
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
