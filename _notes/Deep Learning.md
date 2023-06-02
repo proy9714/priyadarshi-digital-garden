@@ -5,6 +5,6 @@
 
 ### 📷 [[Computer Vision]]
 
-### [[Reinforcement Learning]]
+### 🤖 [[Reinforcement Learning]]
 
-### [[Meta Learning]]
+###  [[Meta Learning]]

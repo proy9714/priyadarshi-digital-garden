@@ -3,7 +3,7 @@ title: Deep Learning and AI
 ---
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" width="200"/>
+  <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="100%"/>
 </div>
 
   - ### [[Mathematical Foundations]]
