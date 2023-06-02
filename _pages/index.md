@@ -26,6 +26,11 @@ Let's learn, laugh, and unleash the power of AI together 😀!
 
 ### Getting Started
 
+  If you are an absolute beginner 👼 or just want to get a refresher start from here:
+
+  - <a class="internal-link" href="deeplearning-and-ai">Deep Learning and AI</a>
+
+If you wan this index page : 
 
 
 <strong>Recently updated notes</strong>
