@@ -144,3 +144,11 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+.footer-container {
+  .social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
