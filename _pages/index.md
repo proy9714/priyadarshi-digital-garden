@@ -5,11 +5,11 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome! 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  <h2><strong>Hey there!</strong> So glad you found your way to this little corner of the internet.</h2>
-  <p>This little nook is all about the exciting world of Machine Learning, Deep Learning, and Artificial Intelligence. Buckle up and get ready for an awesome journey!</p>
+  <strong>Hey there!</strong> So glad you found your way to this little corner of the internet. <br><br>
+  This little nook is all about the exciting world of Machine Learning, Deep Learning, and Artificial Intelligence. Buckle up and get ready for an awesome journey!
 </p>
 
 This website started as a personal project —a humble GitHub gist where I kept track of the amazing ML resources I stumbled upon while learning the ropes. But hey, why keep all the good stuff to myself? I decided to share it with all of you struggling souls out there who are as eager to dive into ML as I am.
