@@ -28,15 +28,15 @@ Let's learn, laugh, and unleash the power of AI together 😀!
 
 If you are an absolute beginner 👼 or just want to get a refresher start from here:
 
-- <a class="internal-link" href="deep-learning-and-ai">Deep Learning and AI</a>
+- 🤖 <a class="internal-link" href="deep-learning-and-ai">Deep Learning and AI</a>
 
-Here's a list of all the resources that the website has to offer :
+Here's a list  of all the resources that the website has to offer :
 
-- <a class="internal-link" href="/table-of-contents">Table Of Contents</a>
+-  <a class="internal-link" href="/table-of-contents">Table Of Contents</a>
 
 If you are a visual learner, then navigate the entire website through the knowledge graph:
 
-- <a class="internal-link" href="/knowledge-graph">Knowledge Graph</a>
+- 🗺️ <a class="internal-link" href="/knowledge-graph">Knowledge Graph</a>
 
 
 <strong>Recently updated notes</strong>
