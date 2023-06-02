@@ -36,7 +36,7 @@ Here's a list of all the resources that the website has to offer :
 
 If you are a visual learner, then navigate the entire website through the knowledge graph:
 
-- <a class="internal-link" href="/mind-map">Knowledge Graph</a>
+- <a class="internal-link" href="/knowledge-graph">Knowledge Graph</a>
 
 
 <strong>Recently updated notes</strong>

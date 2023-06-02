@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mind Map
-permalink: /table-of-contents
+title: Knowledge Graph
+permalink: /knowledge-graph
 ---
 
-# Mind Map
+# Knowledge Graph
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
