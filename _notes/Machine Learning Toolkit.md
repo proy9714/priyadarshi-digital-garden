@@ -1,11 +1,11 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26xBtSyoi5hUUkCEo/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26xBtSyoi5hUUkCEo/giphy.gif" width="100%"/>
 </div>
 
 ### [[Matplotlib]]
 
-### [[NumP]]
+### [[NumPy]]
   
 ### [[Google Colab]]
 

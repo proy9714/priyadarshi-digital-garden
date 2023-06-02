@@ -4,7 +4,7 @@
 - 📺 [StatQuest ML playlists](https://www.youtube.com/c/joshstarmer/playlists)
 - 📺 [Improving Deep Neural Networks (AndrewNG Playlist)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 - 📚 📺 [MIT Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
--  [A tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- 📚 [A tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - 📚 [Tess Fernandez Deeplearning notes from AndrewNG course](https://github.com/proy9714/Tess-Fernandez-DeepLearning-Notes)
 - 📦 [Python for miscroscopists (Digital Sreeni) -  Github Repo with excellent comments to explain all lines of code](https://github.com/bnsreenu/python_for_microscopists)
 - 📺 [Why Neural Networks can learn anything!](https://www.youtube.com/watch?v=0QczhVg5HaI&list=WL&index=26)

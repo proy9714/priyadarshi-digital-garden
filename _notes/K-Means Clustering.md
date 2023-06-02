@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/12vVAGkaqHUqCQ/giphy.gif"/>
+  <img src="https://media.giphy.com/media/12vVAGkaqHUqCQ/giphy.gif" width="100%"/>
 </div>
 
 - 📺 [Introduction to K-Means - Computerphile](https://www.youtube.com/watch?v=yR7k19YBqiw&list=PLasd6OSjN2oLfFXanE_j8Aax03Tqh7F4J&index=2) 
