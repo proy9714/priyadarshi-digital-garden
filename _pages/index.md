@@ -28,11 +28,11 @@ Let's learn, laugh, and unleash the power of AI together 😀!
 
 If you are an absolute beginner 👼 or just want to get a refresher start from here:
 
-- <a class="internal-link" href="deeplearning-and-ai">Deep Learning and AI</a>
+- <a class="internal-link" href="deep-learning-and-ai">Deep Learning and AI</a>
 
 Here's a list of all that the resources the website has to offer :
 
-- <a class="internal-link" href="/table-of-contents">Table Of Contents</a> page
+- <a class="internal-link" href="/table-of-contents">Table Of Contents</a>
 
 
 <strong>Recently updated notes</strong>
