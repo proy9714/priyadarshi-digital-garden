@@ -4,6 +4,6 @@ title: Knowledge Graph
 permalink: /knowledge-graph
 ---
 
-# Knowledge Graph
+<p># Knowledge Graph</p>
 
 {% include notes_graph.html %}
