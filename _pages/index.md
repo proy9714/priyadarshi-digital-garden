@@ -32,7 +32,7 @@ If you are an absolute beginner 👼 or just want to get a refresher start from 
 
 Here's a list of all that the resources the website has to offer :
 
-- <a class="internal-link" href="/table-of-content">Table Of Content</a> page
+- <a class="internal-link" href="/table-of-contents">Table Of Contents</a> page
 
 
 <strong>Recently updated notes</strong>
