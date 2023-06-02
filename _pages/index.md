@@ -5,10 +5,10 @@ id: home
 permalink: /
 ---
 
-# Welcome! 
+# Welcome! 😀
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  <strong>Hey there!</strong> So glad you found your way to this little corner of the internet. <br><br>
+  <strong>Hey there! 👋</strong> So glad you found your way to this little corner of the internet. <br><br>
   This little nook is all about the exciting world of Machine Learning, Deep Learning, and Artificial Intelligence. Buckle up and get ready for an awesome journey!
 </p>
 
@@ -23,6 +23,10 @@ But wait, there's more! I'll be sprinkling this place with my own insights , tip
 So, grab a cup of coffee (or tea, we don't judge 😉), kick off your shoes, and get ready to embark on an exciting ML adventure with me! We're here to support each other, cheer each other on, and grow together.
 
 Let's learn, laugh, and unleash the power of AI together!
+
+### Getting Started
+
+
 
 <strong>Recently updated notes</strong>
 
