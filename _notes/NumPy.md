@@ -1,3 +1,4 @@
+
 - 📜 [Official quickstart guide](https://numpy.org/devdocs/user/quickstart.html)
 - 📚 [A visual introduction to NumPy](https://jalammar.github.io/visual-numpy/)
 - 📺 [Learn NumPy In 30 Minutes](https://www.youtube.com/watch?v=lXZk0g60qRg)
