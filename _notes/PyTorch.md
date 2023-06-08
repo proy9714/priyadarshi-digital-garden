@@ -18,7 +18,7 @@
 
 ### [[Computer Vision]] using PyTorch 👀
 
-- [[Torchvision]]
+- ##### [[Torchvision]]
 
 ---
 
