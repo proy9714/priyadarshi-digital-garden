@@ -18,7 +18,7 @@
 
 ### [[Computer Vision]] using PyTorch 👀
 
-- #### [[Torchvision]]
+- [[Torchvision]]
 
 ---
 
@@ -26,7 +26,7 @@
 
 TorchStudio is a visual IDE for PyTorch and its ecosystem. It allows you to browse, train and compare AI models in a couple of clicks. It is connected to a large library of datasets and models, and you can build and train models locally or remotely. It also provides visual tools for exploring, analyzing and formatting datasets, as well as visualizing and debugging models. You can use TorchStudio alone or within your IDE, and you can tweak any module, such as datasets, models, analyzers, losses, or metrics. Finally, you can export your models to reusable formats.
 
-- 📺 [TorchStudio, an AI training assistant for PyTorch](https://www.youtube.com/watch?v=aNKTdMWO56w
+- 📺 [TorchStudio, an AI training assistant for PyTorch](https://www.youtube.com/watch?v=aNKTdMWO56w)
 
 ---
 
