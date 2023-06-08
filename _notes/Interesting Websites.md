@@ -8,7 +8,7 @@
 - 🌐 [Tensorflow Hub](https://tfhub.dev/)
 - 🌐 [PyTorch Hub](https://pytorch.org/hub/)
 - 🌐 [StalbitityAI](https://stability.ai/)
-- 🌐 [Lexica | The Stable Diffusion search engine](https://lexica.art/)
+- 🌐 [Lexica - The Stable Diffusion search engine](https://lexica.art/)
 - 🌐 [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/)
 - 🌐 [Aman.ai](https://aman.ai/)
 - 🌐 [Jay Alammar - Visualizing machine learning one concept at a time.](https://jalammar.github.io/)
