@@ -2,7 +2,7 @@
 
 ---
 
-##### Q. What is Tensorflow?
+### Q. What is [[Tensorflow]]?
 
 **A.** TensorFlow is an open-source software library developed by Google specifically for machine learning and deep learning tasks. It provides a powerful framework that allows you to build and train neural networks, which are the backbone of many machine learning algorithms.
 
@@ -18,7 +18,7 @@ Overall, TensorFlow is a powerful and versatile library that empowers researcher
 
 <hr>
 
-##### Q. What is a tensor?
+### Q. What is a [[Tensor]]?
 
 **A.** In the context of machine learning and TensorFlow, a tensor is a fundamental data structure that represents multi-dimensional arrays of numerical values. It can be thought of as a container that holds numerical data.
 
@@ -34,7 +34,7 @@ In summary, a tensor is a versatile data structure used in machine learning and 
 
 <hr>
 
-##### Q. What is Cross Validation?
+### Q. What is [[Cross Validation]]?
 
 **A.** Cross-validation is a technique used in machine learning to evaluate the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
 
@@ -50,7 +50,7 @@ In summary, cross-validation is a technique in machine learning that involves di
 
 <hr>
 
-##### Q. What are some ways we can reduce overfitting?
+### Q. What are some ways we can reduce overfitting?
 
 **A.**   Overfitting is a common challenge in machine learning where a model performs exceptionally well on the training data but fails to generalize to new, unseen data. To reduce overfitting, several techniques can be applied:
 
@@ -60,11 +60,11 @@ In summary, cross-validation is a technique in machine learning that involves di
     
 3. **Feature Selection**: Careful selection of relevant features and removing irrelevant or noisy features can help reduce overfitting. It's important to focus on the most informative features that contribute to the predictive power of the model.
     
-4. **Regularization**: Regularization techniques add a penalty term to the model's objective function, discouraging overly complex or extreme parameter values. Common regularization techniques include L1 regularization (Lasso) and L2 regularization (Ridge), which help constrain the model's parameters and prevent overfitting.
+4. **[[Regularization]]**: Regularization techniques add a penalty term to the model's objective function, discouraging overly complex or extreme parameter values. Common regularization techniques include L1 regularization (Lasso) and L2 regularization (Ridge), which help constrain the model's parameters and prevent overfitting.
     
 5. **Early Stopping**: Monitoring the model's performance on a validation set during training and stopping the training process when the performance starts to degrade can prevent overfitting. This approach prevents the model from continuing to improve on the training data while losing its ability to generalize.
     
-6. **Ensemble Methods**: Ensemble methods combine multiple models to make predictions. Techniques like bagging (bootstrap aggregating) and boosting can reduce overfitting by aggregating the predictions of multiple models, thereby reducing the impact of individual models that may be prone to overfitting.
+6. **[[Ensemble Methods]]**: Ensemble methods combine multiple models to make predictions. Techniques like bagging (bootstrap aggregating) and boosting can reduce overfitting by aggregating the predictions of multiple models, thereby reducing the impact of individual models that may be prone to overfitting.
     
 7. **Simplifying the Model**: Reducing the complexity of the model, such as decreasing the number of layers or nodes in a neural network, or reducing the maximum depth of a decision tree, can help prevent overfitting. Simplifying the model reduces its capacity to memorize noise or irrelevant patterns in the data.
     
