@@ -1,6 +1,9 @@
 ##### These are actual questions I have been asked at interviews. I have also provided an answer to each in the simplest words possible.
 
+---
+
 ##### Q. What is Tensorflow?
+
 **A.** TensorFlow is an open-source software library developed by Google specifically for machine learning and deep learning tasks. It provides a powerful framework that allows you to build and train neural networks, which are the backbone of many machine learning algorithms.
 
 One of the key features of TensorFlow is its ability to efficiently perform computations on large datasets. It does this by representing data as tensors, which are essentially multi-dimensional arrays. These tensors flow through a computational graph, where various mathematical operations are applied to them. This graph-based approach enables TensorFlow to distribute computations across multiple devices, such as CPUs or GPUs, for faster processing.
@@ -13,7 +16,10 @@ Furthermore, TensorFlow is not limited to a single programming language. It offe
 
 Overall, TensorFlow is a powerful and versatile library that empowers researchers and developers to build and deploy machine learning models efficiently, with extensive support for various network architectures and scalable computing environments.
 
+<hr>
+
 ##### Q. What is a tensor?
+
 **A.** In the context of machine learning and TensorFlow, a tensor is a fundamental data structure that represents multi-dimensional arrays of numerical values. It can be thought of as a container that holds numerical data.
 
 Tensors can have different dimensions, such as 0D (scalar), 1D (vector), 2D (matrix), or higher dimensions. For example, a 0D tensor is a single value, like a number. A 1D tensor is a sequence of values arranged in a single line, like a list of numbers. A 2D tensor is a table of values organized in rows and columns, similar to a spreadsheet.
@@ -26,7 +32,10 @@ By using tensors, TensorFlow can perform computations on large datasets in paral
 
 In summary, a tensor is a versatile data structure used in machine learning and TensorFlow to represent multi-dimensional arrays of numerical values, allowing for efficient processing and manipulation of data during the training and evaluation of machine learning models.
 
+<hr>
+
 ##### Q. What is Cross Validation?
+
 **A.** Cross-validation is a technique used in machine learning to evaluate the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
 
 In cross-validation, the available data is divided into two parts: the training set and the validation set. The model is trained on the training set and then evaluated on the validation set. This process is repeated multiple times, with different subsets of data used for training and validation each time.
@@ -39,7 +48,10 @@ It's important to note that cross-validation is typically used during the model 
 
 In summary, cross-validation is a technique in machine learning that involves dividing the data into training and validation sets, repeatedly training and evaluating the model on different subsets of data. It helps assess the model's performance and generalization ability, providing a more reliable estimate of how well the model will perform on unseen data.
 
+<hr>
+
 ##### Q. What are some ways we can reduce overfitting?
+
 **A.**   Overfitting is a common challenge in machine learning where a model performs exceptionally well on the training data but fails to generalize to new, unseen data. To reduce overfitting, several techniques can be applied:
 
 1. **Increase Training Data**: Obtaining more training data can help the model capture a broader representation of the underlying patterns in the data, reducing the chances of overfitting.
@@ -60,3 +72,5 @@ In summary, cross-validation is a technique in machine learning that involves di
     
 
 These techniques, alone or in combination, can help mitigate overfitting and improve the model's ability to generalize well to unseen data. It's important to strike a balance between model complexity and the amount of available data to achieve the best trade-off between underfitting and overfitting.
+
+<hr>
