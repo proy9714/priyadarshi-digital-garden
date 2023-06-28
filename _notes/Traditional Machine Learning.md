@@ -5,3 +5,5 @@
 - ### [[K-Means Clustering]]
 
 - ### [[Support Vector Machine (SVM)]]
+
+- ### [[Tree Based Algorithms]] 
