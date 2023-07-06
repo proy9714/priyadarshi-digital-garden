@@ -22,6 +22,6 @@
 <br>
 - 📺 [Algorithm Whiteboard - Good explanations!](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
  <br>
- **ChatGPT, GPT, BERT and the rest...**
-
-  - 📺 [ChatGPT and GPT models - CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9coYT6XsTraTBo4pL1j4HJ)
+### Getting started with Large Language Models:
+- 📺 [ChatGPT and GPT models - CodeEmporium](https://www.youtube.com/playlist?list=PLTl9hO2Oobd9coYT6XsTraTBo4pL1j4HJ)
+-  [[Langchain]]
