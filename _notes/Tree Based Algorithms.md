@@ -1,6 +1,4 @@
-Learn all about tree based ML like decision trees, random forest and everything else...
-
-- [Tree based algorithms - Normalized Nerd](https://www.youtube.com/playlist?list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_)
-
-
-After learning tree based algorithms, bagging and boosting would be nice topics to explore. Take a look at [[Ensemble Learning]].
+| Resource Type | Title | Comments | Resource Link |
+| -------------- | ----- | -------- | -------------- |
+| 📺 Playlist | Tree based algorithms - Normalized Nerd | Learn about decision trees, random forest, and more | [YouTube Playlist](https://www.youtube.com/playlist?list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_) |
+| 🔗 Note | Ensemble Learning | Explore bagging and boosting after learning tree-based algorithms | [[Ensemble Learning]] |

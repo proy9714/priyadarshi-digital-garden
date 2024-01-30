@@ -1,14 +1,15 @@
-
-- 🌐 [HuggingFace](https://huggingface.co/)
-- 🌐 [machinelearningmastery.com](https://machinelearningmastery.com/)
-- 🌐 [Gradio : Build & Share Delightful Machine Learning Apps](https://gradio.app/)
-- 🌐 [Darknet: Open Source Neural Networks in C](https://pjreddie.com/darknet/)
-- 🌐 [PixelLib  (Segmentation)](https://github.com/ayoolaolafenwa/PixelLib)
-- 🌐 [ModelZoo](https://modelzoo.co/)
-- 🌐 [Tensorflow Hub](https://tfhub.dev/)
-- 🌐 [PyTorch Hub](https://pytorch.org/hub/)
-- 🌐 [StalbitityAI](https://stability.ai/)
-- 🌐 [Lexica - The Stable Diffusion search engine](https://lexica.art/)
-- 🌐 [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/)
-- 🌐 [Aman.ai](https://aman.ai/)
-- 🌐 [Jay Alammar - Visualizing machine learning one concept at a time.](https://jalammar.github.io/)
+| Resource Type | Title | Comments | Resource Link |
+|---------------|-------|----------|---------------|
+| 🌐 Website     | HuggingFace | - | [HuggingFace](https://huggingface.co/) |
+| 🌐 Website     | machinelearningmastery.com | - | [Machine Learning Mastery](https://machinelearningmastery.com/) |
+| 🌐 Website     | Gradio | Build & Share Delightful Machine Learning Apps | [Gradio](https://gradio.app/) |
+| 🌐 Website     | Darknet | Open Source Neural Networks in C | [Darknet](https://pjreddie.com/darknet/) |
+| 📦 GitHub      | PixelLib (Segmentation) | - | [GitHub Link](https://github.com/ayoolaolafenwa/PixelLib) |
+| 🌐 Website     | ModelZoo | - | [ModelZoo](https://modelzoo.co/) |
+| 🌐 Website     | TensorFlow Hub | - | [TensorFlow Hub](https://tfhub.dev/) |
+| 🌐 Website     | PyTorch Hub | - | [PyTorch Hub](https://pytorch.org/hub/) |
+| 🌐 Website     | StabilityAI | - | [StabilityAI](https://stability.ai/) |
+| 🌐 Website     | Lexica - The Stable Diffusion search engine | - | [Lexica](https://lexica.art/) |
+| 🌐 Website     | Nvidia Canvas | - | [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/) |
+| 🌐 Website     | Aman.ai | - | [Aman.ai](https://aman.ai/) |
+| 🌐 Website     | Jay Alammar - Visualizing machine learning one concept at a time. | - | [Jay Alammar](https://jalammar.github.io/) |
