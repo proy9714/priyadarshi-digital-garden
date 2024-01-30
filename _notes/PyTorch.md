@@ -1,5 +1,3 @@
-### Getting started 👶
-
 | Resource Type | Title | Comments | Resource Link |
 | -------------- | ----- | -------- | -------------- |
 | 📺 Video | PyTorch Crash Course - Getting Started with Deep Learning | - | [YouTube Link](https://www.youtube.com/watch?v=OIenNRt2bjg) |
