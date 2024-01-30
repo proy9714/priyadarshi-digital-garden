@@ -1,64 +1,51 @@
-1. **HuggingFace**
+1. [**HuggingFace**](https://huggingface.co/)
    - **Type:** 🌐 Website
    - **Comments:** -
-   - **Link:** [HuggingFace](https://huggingface.co/)
 
-2. **Machine Learning Mastery**
+2. [**Machine Learning Mastery**](https://machinelearningmastery.com/)
    - **Type:** 🌐 Website
    - **Comments:** -
-   - **Link:** [Machine Learning Mastery](https://machinelearningmastery.com/)
 
-3. **Gradio**
+3. [**Gradio**](https://gradio.app/)
    - **Type:** 🌐 Website
    - **Comments:** Build & Share Delightful Machine Learning Apps
-   - **Link:** [Gradio](https://gradio.app/)
 
-4. **Darknet**
+4. [**Darknet**](https://pjreddie.com/darknet/)
    - **Type:** 🌐 Website
    - **Comments:** Open Source Neural Networks in C
-   - **Link:** [Darknet](https://pjreddie.com/darknet/)
 
-5. **PixelLib (Segmentation)**
+5. [**PixelLib (Segmentation)**](https://github.com/ayoolaolafenwa/PixelLib)
    - **Type:** 📦 GitHub
    - **Comments:** -
-   - **Link:** [PixelLib GitHub](https://github.com/ayoolaolafenwa/PixelLib)
 
-6. **ModelZoo**
+6. [**ModelZoo**](https://modelzoo.co/)
    - **Type:** 🌐 Website
    - **Comments:** -
-   - **Link:** [ModelZoo](https://modelzoo.co/)
 
-7. **TensorFlow Hub**
+7. [**TensorFlow Hub**](https://tfhub.dev/)
    - **Type:** 🌐 Website
    - **Comments:** -
-   - **Link:** [TensorFlow Hub](https://tfhub.dev/)
 
-8. **PyTorch Hub**
+8. [**PyTorch Hub**](https://pytorch.org/hub/)
    - **Type:** 🌐 Website
    - **Comments:** -
-   - **Link:** [PyTorch Hub](https://pytorch.org/hub/)
 
-9. **StabilityAI**
+9. [**StabilityAI**](https://stability.ai/)
    - **Type:** 🌐 Website
    - **Comments:** -
-   - **Link:** [StabilityAI](https://stability.ai/)
 
-10. **Lexica - The Stable Diffusion search engine**
+10. [**Lexica - The Stable Diffusion search engine**](https://lexica.art/)
     - **Type:** 🌐 Website
     - **Comments:** -
-    - **Link:** [Lexica](https://lexica.art/)
 
-11. **Nvidia Canvas**
+11. [**Nvidia Canvas**](https://www.nvidia.com/en-us/studio/canvas/)
     - **Type:** 🌐 Website
     - **Comments:** -
-    - **Link:** [Nvidia Canvas](https://www.nvidia.com/en-us/studio/canvas/)
 
-12. **Aman.ai**
+12. [**Aman.ai**](https://aman.ai/)
     - **Type:** 🌐 Website
     - **Comments:** -
-    - **Link:** [Aman.ai](https://aman.ai/)
 
-13. **Jay Alammar - Visualizing machine learning one concept at a time.**
+13. [**Jay Alammar - Visualizing machine learning one concept at a time.**](https://jalammar.github.io/)
     - **Type:** 🌐 Website
     - **Comments:** -
-    - **Link:** [Jay Alammar](https://jalammar.github.io/)
