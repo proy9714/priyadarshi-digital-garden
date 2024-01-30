@@ -6,5 +6,5 @@
 | 🧠 | Concept |
 | 📜 | Official Guide / Documentation |
 | 🗃️ | Stack Overflow |
-| 💌 | GitHub Repository |
+| 💌 | Personal Project |
 | 🔗 | Obsidian Internal Link |
