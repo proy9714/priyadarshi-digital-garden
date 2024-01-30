@@ -25,3 +25,5 @@
 7. [**A Complete guide to Semantic Segmentation in 2024**](https://nanonets.com/blog/semantic-image-segmentation-2020/)
    - **Resource Type:** 📚 Article
    - **Comments:** -
+
+8. [**Semantic Segmentation of BraTS2020**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYgF8O1bTdV-lBdN55wLHDr)
