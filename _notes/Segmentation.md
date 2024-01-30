@@ -27,3 +27,5 @@
    - **Comments:** -
 
 8. [**Semantic Segmentation of BraTS2020**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYgF8O1bTdV-lBdN55wLHDr)
+		 **Resource Type:** 📚 Article
+   - **Comments:** -
