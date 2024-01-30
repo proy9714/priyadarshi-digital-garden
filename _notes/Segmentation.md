@@ -22,6 +22,6 @@
    - **Resource Type:** 📦 Library
    - **Comments:** -
 
-7. [**A 2021 guide to Semantic Segmentation**](https://nanonets.com/blog/semantic-image-segmentation-2020/)
+7. [**A Complete guide to Semantic Segmentation in 2024**](https://nanonets.com/blog/semantic-image-segmentation-2020/)
    - **Resource Type:** 📚 Article
    - **Comments:** -
