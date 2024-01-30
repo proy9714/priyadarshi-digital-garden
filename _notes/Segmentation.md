@@ -2,29 +2,29 @@
    - **Resource Type:** 📺 Video
    - **Comments:** -
 
-2. [**Python for Microscopists playlist by Digital Sreeni**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT)
+2. [**A Complete guide to Semantic Segmentation in 2024**](https://nanonets.com/blog/semantic-image-segmentation-2020/)
+   - **Resource Type:** 📚 Article
+   - **Comments:** -
+
+3. [**Python for Microscopists playlist by Digital Sreeni**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT)
    - **Resource Type:** 📺 Video
    - **Comments:** - 
 	   - Segmentation using U-Net : 74 - 79
 
-3. [**The Watershed algorithm for segmentation**](https://www.youtube.com/watch?v=FLmxZaQhvsI)
+4. [**The Watershed algorithm for segmentation**](https://www.youtube.com/watch?v=FLmxZaQhvsI)
    - **Resource Type:** 📺 Video
    - **Comments:** -
 
-4. [**Mean Shift Segmentation Explanation**](https://stackoverflow.com/questions/4831813/image-segmentation-using-mean-shift-explained)
+5. [**Mean Shift Segmentation Explanation**](https://stackoverflow.com/questions/4831813/image-segmentation-using-mean-shift-explained)
    - **Resource Type:** 📚 Article
    - **Comments:** -
 
-5. [**UNet for Image Segmentation - What You Need To Know! - Computer Vision**](https://www.youtube.com/watch?v=-dfSZ_uLfo8)
+6. [**UNet for Image Segmentation - What You Need To Know! - Computer Vision**](https://www.youtube.com/watch?v=-dfSZ_uLfo8)
    - **Resource Type:** 📺 Video
    - **Comments:** -
 
-6. [**Pixellib library for Semantic Segmentation**](https://github.com/ayoolaolafenwa/PixelLib)
+7. [**Pixellib library for Semantic Segmentation**](https://github.com/ayoolaolafenwa/PixelLib)
    - **Resource Type:** 📦 Library
-   - **Comments:** -
-
-7. [**A Complete guide to Semantic Segmentation in 2024**](https://nanonets.com/blog/semantic-image-segmentation-2020/)
-   - **Resource Type:** 📚 Article
    - **Comments:** -
 
 8. [**Semantic Segmentation of BraTS2020**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYgF8O1bTdV-lBdN55wLHDr)

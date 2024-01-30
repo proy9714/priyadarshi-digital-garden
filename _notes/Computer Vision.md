@@ -10,7 +10,7 @@
    - **Resource Type:** 🔗 Note
    - **Comments:** -
 
-4. [[bject Detection and Tracking]]
+4. [[Object Detection and Tracking]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -
 
