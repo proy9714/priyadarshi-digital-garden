@@ -14,10 +14,10 @@
    - **Resource Type:** 📺 Video
    - **Comments:** -
 
-5. [**Vanishing and Exploding Gradients**]([[Vanishing and Exploding Gradients]])
+5. [[Vanishing and Exploding Gradients]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -
 
-6. [**Transformers**]([[Transformers]])
+6. [[Transformers]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -

@@ -34,7 +34,7 @@
    - **Resource Type:** 📺 Playlist
    - **Comments:** Getting started with Large Language Models
 
-9. [**Langchain**]([[Langchain]])
+9. [[Langchain]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -
 

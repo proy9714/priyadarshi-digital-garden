@@ -8,4 +8,3 @@
 | 🗃️ | Stack Overflow |
 | 💌 | GitHub Repository |
 | 🔗 | Obsidian Internal Link |
-|  |  |

@@ -2,6 +2,6 @@
    - **Resource Type:** 📺 Playlist
    - **Comments:** Learn about decision trees, random forest, and more
 
-2. [**Ensemble Learning**]([[Ensemble Learning]])
+2. [[Ensemble Learning]]
    - **Resource Type:** 🔗 Note
    - **Comments:** Explore bagging and boosting after learning tree-based algorithms

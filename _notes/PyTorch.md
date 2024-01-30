@@ -22,7 +22,7 @@
    - **Resource Type:** 📺 Video
    - **Comments:** Heart of PyTorch
 
-7. [**Torchvision**]([[Torchvision]])
+7. [[Torchvision]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -
 
