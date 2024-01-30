@@ -2,9 +2,10 @@
    - **Resource Type:** 📺 Video
    - **Comments:** -
 
-2. [**Python for Microscopists playlist by Digital Sreeni - (74 - 79)**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT)
+2. [**Python for Microscopists playlist by Digital Sreeni**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT)
    - **Resource Type:** 📺 Video
-   - **Comments:** -
+   - **Comments:** - 
+	   - Segmentation using U-Net : 74 - 79
 
 3. [**The Watershed algorithm for segmentation**](https://www.youtube.com/watch?v=FLmxZaQhvsI)
    - **Resource Type:** 📺 Video
@@ -27,5 +28,5 @@
    - **Comments:** -
 
 8. [**Semantic Segmentation of BraTS2020**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYgF8O1bTdV-lBdN55wLHDr)
-   -  **Resource Type:** 📚 Article
-   - **Comments:** -
+   -  **Resource Type:** 📺 Video
+   - **Comments:** - An application of Semantic Segmentation
