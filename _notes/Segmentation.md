@@ -30,3 +30,5 @@
 8. [**Semantic Segmentation of BraTS2020**](https://www.youtube.com/playlist?list=PLZsOBAyNTZwYgF8O1bTdV-lBdN55wLHDr)
    -  **Resource Type:** 📺 Video
    - **Comments:** - An application of Semantic Segmentation
+
+9. [[Medical Image Segmentation]]
