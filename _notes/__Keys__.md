@@ -1,3 +1,4 @@
+
 | Emoji | Resource Type |
 | ---- | ---- |
 | 📺 | Video |
@@ -8,3 +9,4 @@
 | 🗃️ | Stack Overflow |
 | 💌 | Personal Project |
 | 🔗 | Obsidian Internal Link |
+| 🔬 | Research/ Paper |
