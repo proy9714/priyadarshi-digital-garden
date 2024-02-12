@@ -1,7 +1,5 @@
 #### TensorFlow
 
-[[Tensorflow Personal Notes]]
-
 1. [**Official guide**](https://www.tensorflow.org/guide/tensor)
    - **Resource Type:** 📜 Documentation
    - **Comments:** -

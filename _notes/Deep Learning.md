@@ -2,18 +2,22 @@
    - **Resource Type:** 📺 Video
    - **Comments:** Very good for theory!
 
-2. [[NLP]]
+2. [**Deep Learning 101 (CodeEmporium)**](https://www.youtube.com/playlist?list=PLTl9hO2Oobd_NwyY_PeSYrYfsvHZnHGPU)
+   - **Resource Type:** 📺 Video
+   - **Comments:** Getting started and a little more in-depth! 
+
+3. [[NLP]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -
 
-3. [[Computer Vision]]
+4. [[Computer Vision]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -
 
-4. [[Reinforcement Learning]]
+5. [[Reinforcement Learning]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -
 
-5. [[Meta Learning]]
+6. [[Meta Learning]]
    - **Resource Type:** 🔗 Note
    - **Comments:** -

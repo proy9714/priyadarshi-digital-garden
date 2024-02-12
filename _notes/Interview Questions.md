@@ -74,3 +74,5 @@ In summary, cross-validation is a technique in machine learning that involves di
 These techniques, alone or in combination, can help mitigate overfitting and improve the model's ability to generalize well to unseen data. It's important to strike a balance between model complexity and the amount of available data to achieve the best trade-off between underfitting and overfitting.
 
 <hr>
+
+#### Also practice linear regression and logistic regression codes.
