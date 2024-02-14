@@ -10,3 +10,4 @@
 | 💌 | Personal Project |
 | 🔗 | Obsidian Internal Link |
 | 🔬 | Research/ Paper |
+| 💻 | Code |

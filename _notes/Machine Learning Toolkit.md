@@ -6,7 +6,7 @@
 ### [[Matplotlib]]
 
 ### [[NumPy]]
-  
+
 ### [[Google Colab]]
 
 ### [[PyTorch]]
