@@ -5,6 +5,7 @@
 		- Classification tree
 		- Regression tree
 		- Pruning
+		- Very good walk-through (detailed!) using a notebook using Decision tree classification.
 
 - [**Let’s Write a Decision Tree Classifier from Scratch - Machine Learning Recipes #8**](https://www.youtube.com/watch?v=LDRbO9a6XPU)
    - **Resource Type:** 📺 Video, 💻 Code
@@ -14,7 +15,7 @@
 	   - How does a tree learn?
 	   - Seeing how to make splits and selecting nodes via code.
 	   - What is information gain?
-	   - What is gini impurity?
+	   - What is Gini impurity?
 
 -  [**Tree based algorithms - Normalized Nerd**](https://www.youtube.com/playlist?list=PLM8wYQRetTxAl5FpMIJCcJbfZjSB0IeC_)
    - **Resource Type:** 📺 Playlist

@@ -18,7 +18,7 @@ Overall, TensorFlow is a powerful and versatile library that empowers researcher
 
 <hr>
 
-### Q. What is a [[Tensor]]?
+### Q. What is a Tensor?
 
 **A.** In the context of machine learning and TensorFlow, a tensor is a fundamental data structure that represents multi-dimensional arrays of numerical values. It can be thought of as a container that holds numerical data.
 
