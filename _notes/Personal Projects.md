@@ -29,3 +29,9 @@
 8. [**Advanced Computer Vision with Tensorflow**](https://github.com/proy9714/AdvancedComputerVisionUsingTensorflow)
    - **Resource Type:** 💌📦 GitHub Repo
    - **Comments:** -
+
+9. [**World of AI**](https://github.com/proy9714/World-Of-AI)
+   - **Resource Type:** 💌📦 GitHub Repo
+   - **Comments:** -
+	   - My Personal repo containing all files and notebooks from various machine learning fields.
+	   - Meant to be used as a reference.

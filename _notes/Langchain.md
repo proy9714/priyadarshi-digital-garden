@@ -9,3 +9,9 @@
 3. [**Understanding ReACT with Langchain**](https://www.youtube.com/watch?v=Eug2clsLtFs)
    - **Resource Type:** 📺 Video
    - **Comments:** -
+
+### LangGraph
+
+1. [Learn LangGraph- The Easy Way](https://www.youtube.com/watch?v=R8KB-Zcynxc&list=PLasd6OSjN2oJgmjlTcc5zDj6H2L9Itcxt&index=2)
+   - **Resource Type:** 📺 Video
+   - **Comments:** -
